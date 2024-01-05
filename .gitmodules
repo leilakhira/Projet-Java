@@ -1,0 +1,18 @@
+[submodule "Configuration-Service"]
+	path = Configuration-Service
+	url = https://github.com/leilakhira/Configuration-service
+[submodule "Benevole_service"]
+	path = Benevole_service
+	url = https://github.com/leilakhira/Benevole-service
+[submodule "DiscoveryService"]
+	path = DiscoveryService
+	url = https://github.com/leilakhira/Discovery-service
+[submodule "validation_service"]
+	path = validation_service
+	url = https://github.com/leilakhira/Validation-service
+[submodule "Gateway_service"]
+	path = Gateway_service
+	url = https://github.com/leilakhira/Gateway-Service
+[submodule "Gestion_demende"]
+	path = Gestion_demende
+	url = https://github.com/leilakhira/Demande-service
